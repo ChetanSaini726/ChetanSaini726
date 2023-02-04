@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChetanSaini726
 - 👀 I’m interested in Games and Game Developing
-- 🌱 I’m currently learning Game Enginesn (UE4 and probably UE5 in future)/Making my own
-- 💞️ I’m looking to collaborate on Game projects
+- 🌱 I’m currently learning Game Engines (Unreal Engine)/Making my own
+- 💞️ I’m looking and would be grateful to collaborate on any other projects
 - 📫 How to reach me chetansky98@gmail.com
 
 <!---
